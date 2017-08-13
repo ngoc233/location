@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
 
 	<h1>Bài test php - danh lam thắng cảnh ( lấy đề tài ở Việt Nam)</h1>
 	<img style="width: 100%" src="http://laraveldaily.com/wp-content/uploads/2015/06/laravel-logo-big.png">
@@ -13,6 +19,12 @@
 	CSDL: MySQL
 	Map: google map API (mới nhất)
 	Design: Sử dụng bootstrap 3</span>
+	<h4>Công nghệ:</h4><span>Sử dụng BootStrap 3</span>
+	<br><span>Sử dụng Laravel5.4</span>
+	<br><span>Sử google map API (mới nhất)</span>
+	<br><span>Chuyển trang bằng ajax</span>
+	<br><span>Isotope</span>
+	<br>
 	<h4>Cách cài đặt</h4>
 	<span>Bước 1 : Chạy : <b>git clone https://github.com/ngoc233/location.git</b></span>
 	<br>
@@ -32,3 +44,6 @@
 	<br>
 	<span>Đăng nhập với link <b>http://localhost/location/login</b> tài khoản :admin123@gmail.com ; mật khẩu :admin123456</span>
 	<br>
+
+</body>
+</html>
