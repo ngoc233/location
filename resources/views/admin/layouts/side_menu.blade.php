@@ -6,7 +6,7 @@ dashboard<nav class="side-menu">
 	                <span class="lbl">Dashboard</span>
 	            </span>
 	            <ul>
-	                <li><a href="index.html"><span class="lbl">Default</span><span class="label label-custom label-pill label-danger">new</span></a></li>
+	                <li><a href="{{url('/')}}"><span class="lbl">Home</span><span class="label label-custom label-pill label-danger">new</span></a></li>
 	            </ul>
 	        </li>
 	        <li class="brown">
