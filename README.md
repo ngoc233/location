@@ -1,9 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>location</title>
-</head>
-<body>
 
 	<h1>Bài test php - danh lam thắng cảnh ( lấy đề tài ở Việt Nam)</h1>
 	<img style="width: 100%" src="http://laraveldaily.com/wp-content/uploads/2015/06/laravel-logo-big.png">
@@ -44,6 +38,3 @@
 	<br>
 	<span>Đăng nhập với link <b>http://localhost/location/login</b> tài khoản :admin123@gmail.com ; mật khẩu :admin123456</span>
 	<br>
-
-</body>
-</html>
