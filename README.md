@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Location</title>
-</head>
-<body>
+
 	<h1>Bài test php - danh lam thắng cảnh ( lấy đề tài ở Việt Nam)</h1>
 	<img style="width: 100%" src="http://laraveldaily.com/wp-content/uploads/2015/06/laravel-logo-big.png">
 	<h4>Đề tài</h4><span>Xây dựng website gồm 2 phần:
@@ -19,22 +14,21 @@
 	Map: google map API (mới nhất)
 	Design: Sử dụng bootstrap 3</span>
 	<h4>Cách cài đặt</h4>
-	<span>Bước 1 : Chạy <b>git clone https://github.com/ngoc233/location.git</b></span>
+	<span>Bước 1 : Chạy : <b>git clone https://github.com/ngoc233/location.git</b></span>
 	<br>
 	<span>Bước 2: Tạo DATABASE=location, USERNAME=root, PASSWORD= </span>
 	<br>
-	<span>Bước 3 :Chạy <b>cp .env.example .env</b></span>
+	<span>Bước 3 :Chạy : <b>cp .env.example .env</b></span>
 	<br>
-	<span>Bước 4 :Chạy <b>composer install</b></span>
+	<span>Bước 4 :Chạy : <b>composer install</b></span>
 	<br>
-	<span>Bước 5 :Chạy <b>php artisan migrate</b></span>
+	<span>Bước 5 :Chạy :<b>php artisan migrate</b></span>
 	<br>
-	<span>Bước 6 :Chạy <b>php artisan db:seed</b></span>
+	<span>Bước 6 :Chạy :<b>php artisan db:seed</b></span>
 	<br>
-	<span>Bước 7 :Chạy <b>php artisan key:generate</b></span>
+	<span>Bước 7 :Chạy :<b>php artisan key:generate</b></span>
 	<br>
 	<span>Trang chủ <b>http://localhost/location</b></span>
 	<br>
-	<span>Đăng nhập với link <b>http://localhost/location/login</b></span>
+	<span>Đăng nhập với link <b>http://localhost/location/login</b> tài khoản :admin123@gmail.com ; mật khẩu :admin123456</span>
 	<br>
-</html>
