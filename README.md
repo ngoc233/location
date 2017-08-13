@@ -18,7 +18,7 @@
 	<h4>Yêu cầu:</h4><span>Sử dụng framework Laravel 5.3
 	CSDL: MySQL
 	Map: google map API (mới nhất)
-	Design: Sử dụng bootstrap 3</span>
+	 Design: Sử dụng bootstrap 3</span>
 	<h4>Công nghệ:</h4><span>Sử dụng BootStrap 3</span>
 	<br><span>Sử dụng Laravel5.4</span>
 	<br><span>Sử google map API (mới nhất)</span>
