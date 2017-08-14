@@ -25,6 +25,8 @@ Bài test php - danh lam thắng cảnh ( lấy đề tài ở Việt Nam)
 	<br>
 	<span>Bước 2: Tạo DATABASE=location, USERNAME=root, PASSWORD= </span>
 	<br>
+	<span>Bước 2.5 :Chạy : <b>cd location</b></span>
+	<br>
 	<span>Bước 3 :Chạy : <b>cp .env.example .env</b></span>
 	<br>
 	<span>Bước 4 :Chạy : <b>composer install</b></span>
